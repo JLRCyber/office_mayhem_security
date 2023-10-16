@@ -1,0 +1,40 @@
+
+ 
+.html_accessibility {
+	opacity: 0 !important;
+	outline: none !important;
+	font-size: 0px !important;
+	height: 1px !important;
+	width: 1px !important;
+}
+.btn_accessibility {
+	opacity: 0;
+	height: 1px;
+	width: 1px;
+	font-size: 0px !important;
+	border: none !important;
+}
+.btn_accessibility:focus {
+	border: none !important;
+	outline: none !important;
+}
+.btn_accessibility:focus-visible {
+	border: none !important;
+}
+
+#skip_btn {
+	opacity: 0 !important;
+}
+
+#skip_btn:focus {
+	opacity: 1 !important;
+}
+
+html, body, canvas, .html_accessibility, .btn_accessibility {
+	webkit-touch-callout: none; /* iOS Safari */
+	webkit-user-select: none; /* Safari */
+	khtml-user-select: none; /* Konqueror HTML */
+	moz-user-select: none; /* Old versions of Firefox */
+	ms-user-select: none; /* Internet Explorer/Edge */
+	user-select: none;
+}

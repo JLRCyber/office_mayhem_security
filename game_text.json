@@ -1,0 +1,34 @@
+{
+	"items": [
+		{
+			"id": 0,
+			"title": "Hotspot 0 coming from JSON!",
+			"text": "testing json functionality \n\nWe can even do multi-line!"
+		},
+		
+		{
+			"id": 1,
+			"title": "Hotspot 1 coming from JSON!",
+			"text": "testing json functionality woo"
+		},
+		
+		{
+			"id": 2,
+			"title": "Hotspot 2 coming from JSON!",
+			"text": "we are testing json functionality"
+		},
+		
+		{
+			"id": 3,
+			"title": "Hotspot 3 coming from JSON!",
+			"text": "awesome!"
+		},
+		
+		{
+			"id": 4,
+			"title": "Hotspot 4 coming from JSON!",
+			"text": "awesome!"
+		}
+	]
+	
+}
